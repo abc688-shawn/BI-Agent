@@ -1,0 +1,11 @@
+ip = "214.2.2.20"
+port = "5090"
+model_name = "qwen3_32b"
+max_workers = 5
+task_type = "plan"
+input_csv_path = "data/dianxin_train_memory.csv"
+output_csv_path = "data/output_data_memory.csv"
+repetition_penalty = 1.1
+temperature = 0.7
+top_p = 0.9
+n = 10
