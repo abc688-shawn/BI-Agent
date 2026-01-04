@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.jsonl
+*.log
+*.db
+*.sqlite3
+
+# Environment
+env/
+venv/
+ENV/
+.env
+*.env
